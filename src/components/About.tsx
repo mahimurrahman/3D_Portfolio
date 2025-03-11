@@ -6,9 +6,10 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          I am Mahimur Rahman Khan, a passionate learner in Full Stack Web Development and AI Engineering. 
+  My journey blends technology, creativity, and futuristic thinking. Exploring AI, ML, and advanced 
+  web experiences excites me as I work toward crafting immersive, algorithmic, and visually 
+  stunning digital experiences.
         </p>
       </div>
     </div>
