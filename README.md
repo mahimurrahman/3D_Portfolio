@@ -1,6 +1,6 @@
-# My Portfolio Website - Overview 🚀
+# Mahim's Portfolio
 
-This repository contains the open source version of my 3D portfolio website. Do check it out!
+This project is now maintained and presented by Mahim. All references to the original "kabir-portfolio" have been updated. This repo contains my 3D portfolio and related tools. 
 
 ## Instructions 🛠️
 
@@ -70,5 +70,5 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
- 
+
 
