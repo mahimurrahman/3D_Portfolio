@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import "./styles/Cursor.css";
-// import gsap from "gsap";
+import anime from "animejs"; // Add this import
 
 const Cursor = () => {
   const cursorRef = useRef<HTMLDivElement>(null);
